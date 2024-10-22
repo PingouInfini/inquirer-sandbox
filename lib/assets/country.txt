@@ -1,0 +1,196 @@
+afghanistan
+afrique du sud
+albanie
+algérie
+allemagne
+andorre
+angola
+antigua-et-barbuda
+arabie saoudite
+argentine
+arménie
+australie
+autriche
+azerbaïdjan
+bahamas
+bahreïn
+bangladesh
+barbade
+belgique
+belize
+bénin
+bhoutan
+biélorussie
+birmanie
+bolivie
+bosnie-herzégovine
+botswana
+brésil
+brunei
+bulgarie
+burkina faso
+burundi
+cambodge
+cameroun
+canada
+cap-vert
+centrafrique
+chili
+chine
+chypre
+colombie
+comores
+congo-brazzaville
+congo-kinshasa
+corée du nord
+corée du sud
+costa rica
+côte d'ivoire
+croatie
+cuba
+danemark
+djibouti
+dominique
+égypte
+el salvador
+émirats arabes unis
+équateur
+érythrée
+espagne
+estonie
+eswatini
+états-unis
+éthiopie
+fidji
+finlande
+france
+gabon
+gambie
+géorgie
+ghana
+grèce
+grenade
+guatemala
+guinée
+guinée équatoriale
+guinée-bissau
+guyana
+haïti
+honduras
+hongrie
+inde
+indonésie
+irak
+iran
+irlande
+islande
+israël
+italie
+jamaïque
+japon
+jordanie
+kazakhstan
+kenya
+kirghizistan
+kiribati
+kosovo
+koweït
+laos
+lesotho
+lettonie
+liban
+libéria
+libye
+liechtenstein
+lituanie
+luxembourg
+macédoine du nord
+madagascar
+malaisie
+malawi
+maldives
+mali
+malte
+maroc
+marshall
+maurice
+mauritanie
+mexique
+micronésie
+moldavie
+monaco
+mongolie
+monténégro
+mozambique
+namibie
+nauru
+népal
+nicaragua
+niger
+nigéria
+norvège
+nouvelle-zélande
+oman
+ouganda
+ouzbekistan
+pakistan
+palaos
+panama
+papouasie-nouvelle-guinée
+paraguay
+pays-bas
+pérou
+philippines
+pologne
+portugal
+qatar
+république centrafricaine
+république dominicaine
+république tchèque
+roumanie
+royaume-uni
+russie
+rwanda
+saint-christophe-et-nieves
+saint-marin
+saint-vincent-et-les-grenadines
+sainte-lucie
+salomon
+samoa
+sao tomé-et-principe
+sénégal
+serbie
+seychelles
+sierra leone
+singapour
+slovaquie
+slovénie
+somalie
+soudan
+soudan du sud
+sri lanka
+suède
+suisse
+suriname
+syrie
+tadjikistan
+tanzanie
+tchad
+thaïlande
+timor oriental
+togo
+tonga
+trinité-et-tobago
+tunisie
+turkménistan
+turquie
+tuvalu
+ukraine
+uruguay
+vanuatu
+vatican
+venezuela
+viêt nam
+yémen
+zambie
+zimbabwe
